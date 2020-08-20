@@ -12,8 +12,8 @@
 <li> Instalar Extensão - Live Server </li>
 
 <h2> CSS </h2>
-<li> Consultar demos - http://owlcarousel2.github.io/OwlCarousel2/ </li>
-
+<li> Download Pacote Principal - http://owlcarousel2.github.io/OwlCarousel2/ </li>
+<li> Escolher Demo Basic - http://owlcarousel2.github.io/OwlCarousel2/demos/demos.html </li>
 
 <h2> Linguagens </h2>
 <li> HTML </li>
