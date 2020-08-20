@@ -4,9 +4,15 @@
 <img src="https://i.ibb.co/GxF6swd/screencapture-127-0-0-1-5500-index-html-2020-08-20-10-03-05.png" alt="screencapture-127-0-0-1-5500-index-html-2020-08-20-10-03-05" border="0">
 
 
-<h2> Requisitos </h2>
+<h2> Requisitos Iniciais </h2>
 <li> Editor de texto - Visual Studio Code - https://code.visualstudio.com/</li>
 <li> Navegador - Google Chrome - https://www.google.com/intl/pt-BR/chrome/</li>
+
+<h2> Visual Studio </h2>
+<li> Instalar Extensão - Live Server </li>
+
+<h2> CSS </h2>
+<li> Consultar demos - http://owlcarousel2.github.io/OwlCarousel2/ </li>
 
 
 <h2> Linguagens </h2>
