@@ -3,7 +3,7 @@
 <h2> Index.html </h2>
 <img src="https://i.ibb.co/GxF6swd/screencapture-127-0-0-1-5500-index-html-2020-08-20-10-03-05.png" alt="screencapture-127-0-0-1-5500-index-html-2020-08-20-10-03-05" border="0">
 
-<h2> Cadastre-se.html - (Em Andamento)</h2>
+<h2> Cadastre-se.html </h2>
 <img src="https://i.ibb.co/MPX6Dgr/screencapture-file-C-Users-Jessica-Desktop-flixgames-formulario-html-2020-08-20-11-10-00.png" alt="screencapture-file-C-Users-Jessica-Desktop-flixgames-formulario-html-2020-08-20-11-10-00" border="0">
 
 <h2> Requisitos Iniciais </h2>
